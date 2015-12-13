@@ -78,3 +78,11 @@ Your command line prompt should look something like this:
 To leave the environment, use this command:
 
 `source deactivate`
+
+### Running Jupyter Notebooks
+
+The course materials are provided in the form of [Jupyter notebooks](http://jupyter.org). This is an interactive, web-based interface to Python that allows code, text and other supporting media to be integrated in a robust analytics environment. Having set up and activated your environment above, you can run Jupyter from the command line as follows:
+
+`jupyter notebook`
+
+This will automatically open your web browser to a list of available files in the project directory, including the notebooks containing the workshop materials, in files with a `.ipynb` extension. Clicking on any of these files will open the notebook and allow you to work with them interactively.
