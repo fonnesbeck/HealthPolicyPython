@@ -45,6 +45,10 @@ For details on installing Anaconda Python, see [the official guide](http://docs.
 
 If you installed Anaconda successfully, then in a new terminal window you should have access to the `conda` command. Try typing it in and running it; If you get a `command not found` error, then the Anaconda directory is probably not in your `PATH`. Please contact the tutorial instructor for assistance.
 
+You can also try opening Python, by running the `python` command from the terminal. You should get a Python prompt that looks something like this:
+
+![python shell](http://dsh.re/17476)
+
 ### Create a virtual environment
 
 A really nice feature of using Anaconda for data analysis is that you can create isolated *environments* for particular projects you are working on. In the environment, you control exactly which packages (and which versions) are available, making it easier to replicate or share development environments between machines or people.
