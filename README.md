@@ -1,6 +1,7 @@
 **Table of Contents**
 
-- [Python Programming for Health Policy](python-programming-for-health-policy)
+- [Python Programming for Health Policy](#python-programming-for-health-policy)
+- [Syllabus](#syllabus)
 - [Installing Python](#installing-python)
 	- [Download](#download)
 	- [Install](#install)
