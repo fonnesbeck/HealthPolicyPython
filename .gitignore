@@ -47,8 +47,8 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
-*.log
+# IPython stuff:
+.ipynb_checkpoints/
 
 # Sphinx documentation
 docs/_build/

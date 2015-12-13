@@ -65,6 +65,10 @@ Move into the directory that contains the tutorial materials and run this `conda
 
 `conda env create`
 
+This will automatically fetch and install the packages from Anaconda's repository and set up the environment for you. If successful, you should see something like the following in your terminal:
+
+![conda env](http://dsh.re/1311a)
+
 Now you can enter your environment with this command:
 
 `source activate healthpolicy`
@@ -86,3 +90,5 @@ The course materials are provided in the form of [Jupyter notebooks](http://jupy
 `jupyter notebook`
 
 This will automatically open your web browser to a list of available files in the project directory, including the notebooks containing the workshop materials, in files with a `.ipynb` extension. Clicking on any of these files will open the notebook and allow you to work with them interactively.
+
+![jupyter](http://dsh.re/adace)
