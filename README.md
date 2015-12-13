@@ -11,9 +11,9 @@
 # Python Programming for Health Policy
 ### Python programming workshop for Vanderbilt's Department of Health Policy
 
-Date: December 16, 2015
-Venue: Grand Conference Room, 12th Foor, 2525 West End Avenue
-Instructor: [Chris Fonnesbeck](chris.fonnesbeck@vanderbilt.edu)
+**Date**: December 16, 2015  
+**Venue**: Grand Conference Room, 12th Foor, 2525 West End Avenue  
+**Instructor**: [Chris Fonnesbeck](chris.fonnesbeck@vanderbilt.edu)
 
 The goal of this workshop is to very briefly introduce health policy researchers to the Python programming language, and illustrate how it can be used for data cleaning, exploration and analysis. Given the constraints of a two-hour time slot, we will try to use the first part of the workshop to provide an overview of programming in Python, including data structures, control flow and function-writing, while the second part will be an example-driven tour of Python's data analysis functionality, with links to additional external information for those interested in learning more about any given aspect of the material.
 
