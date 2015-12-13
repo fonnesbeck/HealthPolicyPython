@@ -17,33 +17,33 @@ The goal of this workshop is to very briefly introduce health policy researchers
 
 For participants who would like to follow along with the workshop as a hands-on tutorial, I have provided instructions below on how to install Python on your computer. 
 
-# Syllabus
+## Syllabus
 
 Introduction to Python
 
 Data Analysis Using Python
 
-# Installing Python
+## Installing Python
 
 If you wish to follow along with the tutorial materials on your own machine, you will need to download and install Python, and set it up with the appropriate data analysis packages. I recommend using Anaconda Python distribution because it is easy to get up and running, and comes bundled with most of the packages you will need.
 
 To download the course materials, you can either clone this repository using `git`, or if you are not familiar with `git`, just download a zip file of the repository using the button near the upper right hand side of this page.
 
-## Download
+### Download
 
 Go to the [Anaconda download page](https://www.continuum.io/downloads) and download the Python 3.5 installer for your operating system.
 
-## Install
+### Install
 
 Double click the Anaconda installer. A user interface will pop up to guide you through the installation.
 
 For details on installing Anaconda Python, see [the official guide](http://docs.continuum.io/anaconda/install.html).
 
-## Check your installation
+### Check your installation
 
 If you installed Anaconda successfully, then in a new terminal window you should have access to the `conda` command. Try typing it in and running it; If you get a `command not found` error, then the Anaconda directory is probably not in your `PATH`. Please contact the tutorial instructor for assistance.
 
-## Create a virtual environment
+### Create a virtual environment
 
 A really nice feature of using Anaconda for data analysis is that you can create isolated *environments* for particular projects you are working on. In the environment, you control exactly which packages (and which versions) are available, making it easier to replicate or share development environments between machines or people.
 
