@@ -1,0 +1,7 @@
+name: healthpolicy
+dependencies:
+    - python=3.5
+    - numpy
+    - pandas
+    - jupyter
+    - matplotlib
