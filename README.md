@@ -21,9 +21,9 @@ For participants who would like to follow along with the workshop as a hands-on 
 
 ## Syllabus
 
-Introduction to Python
+Part 1: [Introduction to Python](https://github.com/fonnesbeck/HealthPolicyPython/blob/master/Introduction%20to%20Python.ipynb)
 
-Data Analysis Using Python
+Part 2: [Data Analysis Using Python](https://github.com/fonnesbeck/HealthPolicyPython/blob/master/Data%20Analysis%20Using%20Pandas.ipynb)
 
 ## Installing Python
 
