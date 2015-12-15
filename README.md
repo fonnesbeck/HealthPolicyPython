@@ -23,7 +23,7 @@ For participants who would like to follow along with the workshop as a hands-on 
 
 Part 1: [Introduction to Python](https://github.com/fonnesbeck/HealthPolicyPython/blob/master/Introduction%20to%20Python.ipynb)
 
-Part 2: [Data Analysis Using Python](https://github.com/fonnesbeck/HealthPolicyPython/blob/master/Data%20Analysis%20Using%20Pandas.ipynb)
+Part 2: [Data Analysis Using Pandas](https://github.com/fonnesbeck/HealthPolicyPython/blob/master/Data%20Analysis%20Using%20Pandas.ipynb)
 
 ## Installing Python
 
